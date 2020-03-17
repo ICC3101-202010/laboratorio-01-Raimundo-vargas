@@ -2,30 +2,42 @@
 
 namespace Laboratorio_1
 {
-    class Pers
+    class Program
     {
-        static void Main(String[] args)
+        static void Main()
             {
-                Persona Pers = new Persona();
-                Pers.Apellido = "Vargas";
-                Console.WriteLine("Apellido: {0}",Pers.Apellido);
+
+                Person persona = new Person("Bob", "kunga");
+                //Jugador 1
+                int jugada = 0;
+                jugada = persona.Lanzar();
+                Console.WriteLine(jugada);
+
+
 
             }
     }
     
-    class Persona
+   
+    class Person
     {
-        //atributos datos
-        public string Nombre;
-        public string Apellido;
-        //metodos funciones
-        public void lanzar()
+        private string last;
+        private string first;
+
+        public Person(string lastName, string firstName)
         {
+            last = lastName;
+            first = firstName;
+        }
+        //metodos funciones
+        public int Lanzar()
+        {
+            Random rnd = new Random();
+            int a = rnd.Next(0, 3);
+            return a;
 
         }
 
-
+        // Remaining implementation of Person class.
     }
-    
-
 }
