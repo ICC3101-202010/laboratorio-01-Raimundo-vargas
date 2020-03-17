@@ -1,4 +1,12 @@
 ﻿Public Class Persona
-    Property
+    //atributos datos
+    Public String Nombre
+    Public String Apellido
+
+    Public void Lanzar una moneda
+
+
+
+
 
 End Class
