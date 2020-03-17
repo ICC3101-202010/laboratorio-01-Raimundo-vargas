@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace Lab1
+namespace Laboratorio_1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ENREDADO");
+            Console.WriteLine("Hello World!");
         }
     }
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rvarg\\Desktop\\laboratorio-01-Raimundo-vargas\\Lab1\\Lab1\\Lab1.csproj",
-      "projectName": "Lab1",
-      "projectPath": "C:\\Users\\rvarg\\Desktop\\laboratorio-01-Raimundo-vargas\\Lab1\\Lab1\\Lab1.csproj",
+      "projectUniqueName": "C:\\Users\\rvarg\\Desktop\\laboratorio-01-Raimundo-vargas\\Laboratorio 1\\Laboratorio 1\\Laboratorio 1.csproj",
+      "projectName": "Laboratorio 1",
+      "projectPath": "C:\\Users\\rvarg\\Desktop\\laboratorio-01-Raimundo-vargas\\Laboratorio 1\\Laboratorio 1\\Laboratorio 1.csproj",
       "packagesPath": "C:\\Users\\rvarg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rvarg\\Desktop\\laboratorio-01-Raimundo-vargas\\Lab1\\Lab1\\obj\\",
+      "outputPath": "C:\\Users\\rvarg\\Desktop\\laboratorio-01-Raimundo-vargas\\Laboratorio 1\\Laboratorio 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rvarg\\AppData\\Roaming\\NuGet\\NuGet.Config",
