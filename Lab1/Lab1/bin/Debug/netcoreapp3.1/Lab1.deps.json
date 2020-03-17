@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Labprueba/1.0.0": {
+      "Lab1/1.0.0": {
         "runtime": {
-          "Labprueba.dll": {}
+          "Lab1.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Labprueba/1.0.0": {
+    "Lab1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
